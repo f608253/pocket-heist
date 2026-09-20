@@ -1,0 +1,12 @@
+links for this project:
+Udemy course: https://capgemini.udemy.com/course/claude-code-master-class/learn/lecture/54639475#overview
+GitHub course by writer/trainer - https://github.com/iamshaunjp/Claude-Code-Masterclass/tree/starter-project
+https://github.com/iamshaunjp/Claude-Code-Masterclass/tree/claude/snippets
+
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-GitHub
+
+https://www.figma.com/design/elHzuUQZiJXNqJft57oneh/Page-Designs?node-id=0-1&t=SathVy3svbESSYV9-1
+
+
+https://developers.figma.com/docs/figma-mcp-server/
+
