@@ -10,7 +10,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
   - Test (`vitest`): `npm run test` or `npm run test -- <filename>` for single tests.
 - Style: Tailwind CSS v4 is used globally.
 
-### Architecture & Route Groups
+### Architecture & Route Groups for project
 - Next.js 16 App Router.
 - **`(public)`**: Contains landing, login, signup, and preview pages. These pages act as entry points; if user is authenticated, redirect them to `/heists`.
 - **`(dashboard)`**: Secured routes. All routes within this group assume an active session.
