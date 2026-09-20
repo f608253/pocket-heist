@@ -22,3 +22,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - **Feature Additions**: When adding new functionality, keep business logic contained within appropriate subdirectories in `app/(dashboard)/` or `app/(public)/`.
 - **Testing**: We use Vitest + React Testing Library. Ensure new features under `components/` have corresponding tests in `tests/components/`.
 - **Gotchas**: Because of the App Router's route groups, shared layouts (like `Navbar`) are defined at the layout level in each group (`app/(public)/layout.tsx` or `app/(dashboard)/layout.tsx`). If you need to make changes to shared UI, verify which layout file it is anchored in.
+
+## Checking Documentation
+
+-  **important:** When implementing any lib/framework-specific features, ALWAYS check the appropriate lib/framework documentation using the context7 MCP server before writing any code.
